@@ -16,7 +16,7 @@
 - [ATRI](https://github.com/Kyomotoi/ATRI)  高性能萝卜子！
 - [绪山真寻Bot](https://github.com/HibiKier/zhenxun_bot)  非常可爱的绪山真寻bot
 - [ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin)  基于 ZeroBot 的 OneBot 插件
-- [Liteyuki Bot](https://github.com/snowyfirefly/Liteyuki-Bot)  非常可爱的，有独立思维(雾)的轻雪Bot
+- [Liteyuki Bot](https://github.com/snowyfirefly/LiteyukiBot)  轻量且实用的轻雪LiteyukiBot
 - [kmua bot](https://github.com/krau/kmua-bot) Telegram 上的可爱文爱 bot
 
 
